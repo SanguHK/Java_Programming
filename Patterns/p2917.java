@@ -1,4 +1,4 @@
-public class p2915{
+public class p2917{
     public static void main(String[] args){
         int row=5;
         int no_space=0;

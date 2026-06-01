@@ -1,7 +1,7 @@
 class p3018{
     public static void main(String[] args){
         int row=7;
-        int no_space=2*row-1;
+        int no_space=row/2;
         int no_char=1;
 
         for(int i=0;i<row;i++){
